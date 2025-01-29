@@ -1,7 +1,3 @@
-package Q2;
-
-
-    
 class Mother {
 
     void show() {
